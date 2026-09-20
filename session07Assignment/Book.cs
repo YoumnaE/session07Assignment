@@ -9,5 +9,6 @@ namespace session07Assignment
         private string password = "secret";
         internal int copiesInStock = 5;
         public string Title= "Clean Code";
+        public Genre Genre { get; set; }
     }
 }
