@@ -17,6 +17,12 @@
 
             #endregion
 
+            #region Q3
+
+            Console.WriteLine(book.Title);
+
+            #endregion
+
 
             Console.ReadLine();
         }
