@@ -46,6 +46,13 @@
 
             #endregion
 
+            #region Q7
+
+            Genre genre1 = Genre.Fiction;
+            Console.WriteLine(genre1.ToString());
+
+            #endregion
+
 
             Console.ReadLine();
         }
