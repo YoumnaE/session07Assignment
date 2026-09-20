@@ -38,6 +38,14 @@
 
             #endregion
 
+            #region Q6
+
+            int genreNumber = 1;
+            Genre genre = (Genre)genreNumber;
+            Console.WriteLine(genre);
+
+            #endregion
+
 
             Console.ReadLine();
         }
