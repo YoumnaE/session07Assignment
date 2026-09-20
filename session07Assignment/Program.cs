@@ -30,6 +30,14 @@
 
             #endregion
 
+            #region Q5
+
+            Console.WriteLine((int)Genre.Fiction);
+            Console.WriteLine((int)Genre.NonFiction);
+            Console.WriteLine((int)Genre.Science);
+
+            #endregion
+
 
             Console.ReadLine();
         }
